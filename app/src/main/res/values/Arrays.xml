@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mobile CWnew</string>
+
+    <string-array name="spinner_items">
+        <item>Glasgow</item>
+        <item>London </item>
+        <item>New York</item>
+    </string-array>
+
+</resources>
